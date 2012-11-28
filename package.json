@@ -1,0 +1,23 @@
+{
+  "name": "node-cc",
+  "description": "Run the `compass compile` command by NodeJS",
+  "version": "0.1.0",
+  "keywords": [
+    "compass",
+    "sass",
+    "command-line"
+  ],
+  "author": {
+    "name": "junjun.zhang",
+    "email": "i@mrzhang.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsw0528/node-cc.git"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": "*",
+    "ruby": "*"
+  }
+}
